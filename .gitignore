@@ -124,15 +124,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-.gitignore
-.idea/filterform.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
-core/
-
-
-media/
-
-
-/static/
