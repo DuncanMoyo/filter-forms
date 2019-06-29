@@ -124,3 +124,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+node_modules
+build
+package-lock.json
